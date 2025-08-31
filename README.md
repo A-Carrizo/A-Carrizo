@@ -16,7 +16,8 @@
 <h2 align="left">Skills</h2>
 
 <!-- GIF decorativo opcional -->
-<img align="right" height="150" src="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-sGIxhunddTUOHlHXgu" />
+<img align="right" height="150" alt="coding pixel art" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
+
 
 <!-- Una sola imagen con todos los íconos (rápido y uniforme) -->
 <!-- Agrega o quita tecnologías en la lista separadas por coma -->

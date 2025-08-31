@@ -16,8 +16,12 @@
 <h2 align="left">Skills</h2>
 
 <!-- GIF decorativo opcional -->
-<img align="right" height="150" alt="coding pixel art" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
-
+<img
+  align="right"
+  height="150"
+  alt="coding pixel art"
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjB5bzVnZzl4OGR1amZqbWNzNW5ma29zZ2pteWVlaWplaHc5cmY0bCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"
+/>
 
 <!-- Una sola imagen con todos los íconos (rápido y uniforme) -->
 <!-- Agrega o quita tecnologías en la lista separadas por coma -->

@@ -16,7 +16,7 @@
 <h2 align="left">Skills</h2>
 
 <!-- GIF decorativo opcional -->
-<img align="right" height="150" alt="coding pixel art" src="[https://media0.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpodjJoMHRqcDFleWE4ZG9iMnFkanhuaTVudHFnN2RsN2I3NWdlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGIxhunddTUOHlHXgu/giphy.gif)"/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/sGIxhunddTUOHlHXgu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-sGIxhunddTUOHlHXgu">via GIPHY</a></p>
 
 <!-- Una sola imagen con todos los íconos (rápido y uniforme) -->
 <!-- Agrega o quita tecnologías en la lista separadas por coma -->

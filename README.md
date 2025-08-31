@@ -27,7 +27,7 @@
 <!-- Agrega o quita tecnologías en la lista separadas por coma -->
 <div align="left">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,nest,go,php,html,css,bootstrap,tailwind,react,angular,grafana,git,github,bitbucket,postgres,mysql,sqlite,prisma,sequelize,firebase,postman,vscode,docker,redis,ssh,jira,slack,linux,ubuntu,wordpress,woocommerce,latex&perline=12" 
+    src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,bootstrap,tailwind,react,angular,grafana,git,github,postgres,mysql,sqlite,sequelize,firebase,postman,vscode,docker,ssh,slack,linux,ubuntu,woocommerce,latex&perline=12" 
     alt="tech stack icons"/>
 </div>
 

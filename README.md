@@ -1,5 +1,4 @@
-<h2 align="left">Hi! My name is @Aldo I am a Software developer from Paraguay</h2>
-
+<h2 align="left">Hi! My name is @Aldo, I am a Software Developer from Paraguay</h2>
 
 <p align="left">
   Soy un apasionado del desarrollo web y la lógica, además de la ciencia en general. Esta es una pequeña presentación de lo que es mi perfil de GitHub.
@@ -15,7 +14,7 @@
 
 <h2 align="left">Skills</h2>
 
-<!-- GIF decorativo opcional -->
+<!-- GIF decorativo -->
 <img
   align="right"
   height="150"
@@ -23,8 +22,10 @@
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjB5bzVnZzl4OGR1amZqbWNzNW5ma29zZ2pteWVlaWplaHc5cmY0bCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"
 />
 
-<!-- Una sola imagen con todos los íconos (rápido y uniforme) -->
-<!-- Agrega o quita tecnologías en la lista separadas por coma -->
+<!-- limpiar el float del GIF para evitar espacios vacíos -->
+<br clear="right" />
+
+<!-- Íconos -->
 <div align="left">
   <img 
     src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,bootstrap,tailwind,react,angular,grafana,git,github,postgres,mysql,sqlite,sequelize,firebase,postman,vscode,docker,ssh,slack,linux,ubuntu,woocommerce,latex&perline=12" 
@@ -39,11 +40,3 @@
       alt="Spotify recently played"/>
   </a>
 </div>
-
-<!-- Secciones extra opcionales 
-<h2 align="left">Pinned Projects</h2>
-- Añade enlaces a repos destacados aquí.
-
-<h2 align="left">What I’m working on</h2>
-- Breve descripción de tu TFG de reconocimiento facial (YOLOv8n-face + DeepFace + Flask + React + PostgreSQL).
--->

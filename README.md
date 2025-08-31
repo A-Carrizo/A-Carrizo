@@ -2,8 +2,8 @@
 
 
 <p align="left">
-  I am a Computer Science student with a strong passion for programming and innovation. 
-  I aim to build high-impact products while learning continuously and sharing knowledge.
+  Soy un apasionado del desarrollo web y la lógica, además de la ciencia en general. Esta es una pequeña presentación de lo que es mi perfil de GitHub.
+  Me encanta el fútbol y también las aventuras. Soy un jugador principiante en CS2 y War Thunder.
 </p>
 
 <!-- Social links -->
@@ -16,7 +16,7 @@
 <h2 align="left">Skills</h2>
 
 <!-- GIF decorativo opcional -->
-<img align="right" height="150" alt="coding pixel art" src="https://media0.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif"/>
+<img align="right" height="150" alt="coding pixel art" src="[https://media0.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpodjJoMHRqcDFleWE4ZG9iMnFkanhuaTVudHFnN2RsN2I3NWdlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGIxhunddTUOHlHXgu/giphy.gif)"/>
 
 <!-- Una sola imagen con todos los íconos (rápido y uniforme) -->
 <!-- Agrega o quita tecnologías en la lista separadas por coma -->

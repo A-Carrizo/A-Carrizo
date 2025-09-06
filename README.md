@@ -101,7 +101,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/22ldgzsblpnei54y5geyi5ynq">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22ldgzsblpnei54y5geyi5ynq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22ldgzsblpnei54y5geyi5ynq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played" />
   </a>
 </div>
 

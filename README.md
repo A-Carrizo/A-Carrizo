@@ -1,9 +1,7 @@
 <h2 align="left">Hi! My name is @Aldo, I am a Software Developer from Paraguay</h2>
 
 <p align="left">
-  Soy un apasionado del desarrollo web y la lógica, además de la ciencia en general. 
-  Esta es una pequeña presentación de lo que es mi perfil de GitHub.
-  Me encanta el fútbol y también las aventuras. Soy un jugador principiante en CS2 y War Thunder.
+  I'm passionate about web development and logic, as well as science in general. This is a brief introduction to my GitHub profile. I love soccer and adventures. I'm a CS2 and War Thunder ace player.
 </p>
 
 
